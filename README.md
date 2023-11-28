@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sabahudin Balic
-- 👀 I’m interested in Data Science and Machine Learning algorithms
 - 📫 How to reach me: sabahudin.balic@gmx.de
 
 <!---
